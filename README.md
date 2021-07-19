@@ -1,6 +1,6 @@
 # COVID-19 Tracker Android App 
 This is a Coronavirus (COVID-19) Tracker App which displays the statistics of covid cases all over the world. <br />
-It uses REST API & Volley Library
+It uses REST API & Volley Library.
 
 # Screenshots 
 <p>
